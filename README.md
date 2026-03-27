@@ -14,4 +14,4 @@ I also spent time building a simple Flask interface so I could test uploads easi
 
 Overall, what surprised me most was how much of the work wasn't actually AI, but data preparation, testing, and iteration. The AI part was almost the easiest step once the pipeline worked correctly.
 
-If someone wants to explore tools instead of building everything from scratch like I did, I also came across some decent options here on https://builder.bookipi.com/pages/best-ai-headshot-generator-3xhw/ honestly.
+If someone wants to explore tools instead of building everything from scratch like I did, I also came across some decent options here on builder.bookipi.com/pages/best-ai-headshot-generator-3xhw honestly.
